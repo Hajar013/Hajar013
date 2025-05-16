@@ -102,12 +102,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajar013&show_icons=true&locale=en&layout=compact" alt="hajar013" /></p><br><br><br><br><br><br><br><br><br>  
-
----
-
-
 ## 🌍 Connect with Me  
 
 <a href="https://www.linkedin.com/in/hajaralhajeh/" target="_blank"><img src="https://img.shields.io/badge/-Hajar%20Alhajeh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -116,3 +110,16 @@
 
 
 Feel free to connect and collaborate! 🌟
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hajar013&show_icons=true&locale=en&layout=compact&theme=dark" alt="Hajar Al-hajeh's Top Languages" style="max-width: 400px; border-radius: 8px;" />
+</br>
+</br>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hajar013&show_icons=true&theme=dark&count_private=true" alt="Hajar Al-hajeh's GitHub Stats" style="max-width: 400px; border-radius: 8px;" />
+</br>
+</br>
+  <!--  -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hajar013&theme=xcode&hide_border=true" />
+  
+
